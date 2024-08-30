@@ -5,7 +5,7 @@ Nesse repositório você encontra os *starter files* de um projeto feito com HTM
 Meet Minas é uma empresa ~~fictícia~~ de viagens, especializada em viagens pelo estado de Minas Gerais. Esse projeto consiste de um site responsivo utilizando a metodologia mobile-first, ou seja, ele é desenvolvido primeiro para dispositivos mobile e depois para telas maiores. Esse site é composto por Navbar, Hero Section, Sobre Nós, Nossos Diferenciais, Nossos Pacotes, Newsletter, Galeria e Footer.
 
 
-- Assista ao passo a passo [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAvgaJOpfkmnOPHarc546QOt).
+- (https://www.youtube.com/playlist?list=PL28O_hEAqjAvgaJOpfkmnOPHarc546QOt).
 
 ![Preview](/preview.png)
 
